@@ -25,11 +25,7 @@
   "extra": {
     "branch-alias": {
       "dev-master": "1.0.x-dev"
-    },
-    "expose": [
-      "admin/client/dist",
-      "client/dist"
-    ]
+    }
   },
   "minimum-stability": "dev",
   "prefer-stable": true
