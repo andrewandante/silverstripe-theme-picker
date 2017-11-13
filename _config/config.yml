@@ -7,3 +7,6 @@ Name: silverstripe-theme-picker
 SilverStripe\SiteConfig\SiteConfig:
   extensions:
     - AndrewAndante\ThemePicker\SiteConfigExtension
+PageController:
+  extensions:
+    - AndrewAndante\ThemePicker\PageControllerExtension
