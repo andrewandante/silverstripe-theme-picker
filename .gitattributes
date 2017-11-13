@@ -3,7 +3,6 @@
 /tests export-ignore
 
 # Continuous integration files
-/.travis.yml export-ignore
 /.scrutinizer.yml export-ignore
 
 # Git files

@@ -1,10 +1,19 @@
 # SilverStripe Theme Picker
 
+[![Scrutinizer Code Quality](https://scrutinizer-ci.com/g/andrewandante/silverstripe-theme-picker/badges/quality-score.png?b=master)](https://scrutinizer-ci.com/g/andrewandante/silverstripe-theme-picker/badges/quality-score.png?b=master)
+
 Module to replicate the SS3 dropdown for themes in SS4.
 
 ## Requirements
 
 - SS4
+- SiteConfig
+
+## Installation
+
+```bash
+composer require andrewandante/silverstripe-theme-picker
+```
 
 ## Config
 
