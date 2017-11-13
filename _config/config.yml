@@ -4,8 +4,9 @@ Name: silverstripe-theme-picker
 
 # Configure Admin Extensions:
 
-SilverStripe\Admin\LeftAndMain:
-  extra_requirements_css:
-    - "andrewandante/silverstripe-theme-picker: admin/client/dist/styles/bundle.css"
-  extra_requirements_javascript:
-    - "andrewandante/silverstripe-theme-picker: admin/client/dist/js/bundle.js"
+SilverStripe\SiteConfig\SiteConfig:
+  extensions:
+    - AndrewAndante\ThemePicker\SiteConfigExtension
+PageController:
+  extensions:
+    - AndrewAndante\ThemePicker\PageControllerExtension
