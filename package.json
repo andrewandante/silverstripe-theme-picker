@@ -1,24 +1,24 @@
 {
-  "name": "{module}",
+  "name": "silverstripe-theme-picker",
   "version": "1.0.0",
-  "description": "{description}",
-  "homepage": "{repo-url}",
-  "keywords": {keywords-json},
+  "description": "Adds a theme dropdown to SiteConfig.",
+  "homepage": "https://github.com/andrewandante/silverstripe-theme-picker",
+  "keywords": ["theme","silverstripe"],
   "license": "BSD-3-Clause",
-  "author": "{organisation}",
+  "author": "SilverStripe",
   "contributors": [
     {
-      "name": "{author}",
-      "email": "{email}",
-      "url": "{homepage}"
+      "name": "Andrew Aitken-Fincham",
+      "email": "andrew@silverstripe.com",
+      "url": "https://www.silverstripe.com"
     }
   ],
   "repository": {
     "type": "git",
-    "url": "{repo-url}.git"
+    "url": "https://github.com/andrewandante/silverstripe-theme-picker.git"
   },
   "bugs": {
-    "url": "{repo-url}/issues"
+    "url": "https://github.com/andrewandante/silverstripe-theme-picker/issues"
   },
   "engines": {
     "node": "^4.2.0"

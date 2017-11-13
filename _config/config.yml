@@ -1,11 +1,11 @@
 ---
-Name: {module}
+Name: silverstripe-theme-picker
 ---
 
 # Configure Admin Extensions:
 
 SilverStripe\Admin\LeftAndMain:
   extra_requirements_css:
-    - "{repo-name}: admin/client/dist/styles/bundle.css"
+    - "andrewandante/silverstripe-theme-picker: admin/client/dist/styles/bundle.css"
   extra_requirements_javascript:
-    - "{repo-name}: admin/client/dist/js/bundle.js"
+    - "andrewandante/silverstripe-theme-picker: admin/client/dist/js/bundle.js"

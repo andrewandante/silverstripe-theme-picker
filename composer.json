@@ -1,16 +1,16 @@
 {
-  "name": "{repo-name}",
+  "name": "andrewandante/silverstripe-theme-picker",
   "type": "silverstripe-vendormodule",
-  "description": "{description}",
-  "homepage": "{repo-url}",
-  "keywords": {keywords-json},
+  "description": "Adds a theme dropdown to SiteConfig.",
+  "homepage": "https://github.com/andrewandante/silverstripe-theme-picker",
+  "keywords": ["theme","silverstripe"],
   "license": "BSD-3-Clause",
   "authors": [
     {
-      "name": "{author}",
+      "name": "Andrew Aitken-Fincham",
       "role": "Developer",
-      "email": "{email}",
-      "homepage": "{homepage}"
+      "email": "andrew@silverstripe.com",
+      "homepage": "https://www.silverstripe.com"
     }
   ],
   "require": {
@@ -19,7 +19,7 @@
   },
   "autoload": {
     "psr-4": {
-      "{namespace-psr4}": "src/"
+      "AndrewAndante\\ThemePicker\\": "src/"
     }
   },
   "extra": {

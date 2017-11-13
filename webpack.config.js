@@ -20,13 +20,13 @@ const PATHS = {
     SRC: path.resolve(__dirname, 'admin/client/src'),
     DIST: path.resolve(__dirname, 'admin/client/dist'),
     BUNDLES: path.resolve(__dirname, 'admin/client/src/bundles'),
-    PUBLIC: '{resource-path}/admin/client/dist/'
+    PUBLIC: '/resources/andrewandante/silverstripe-theme-picker/admin/client/dist/'
   },
   MODULE: {
     SRC: path.resolve(__dirname, 'client/src'),
     DIST: path.resolve(__dirname, 'client/dist'),
     BUNDLES: path.resolve(__dirname, 'client/src/bundles'),
-    PUBLIC: '{resource-path}/client/dist/',
+    PUBLIC: '/resources/andrewandante/silverstripe-theme-picker/client/dist/',
   },
   MODULES: path.resolve(__dirname, 'node_modules')
 };
