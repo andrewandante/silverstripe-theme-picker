@@ -3,7 +3,7 @@
   "type": "silverstripe-vendormodule",
   "description": "Adds a theme dropdown to SiteConfig.",
   "homepage": "https://github.com/andrewandante/silverstripe-theme-picker",
-  "keywords": ["theme","silverstripe"],
+  "keywords": ["theme","silverstripe", "themes", "switcher", "themes switcher", "theme picker"],
   "license": "BSD-3-Clause",
   "authors": [
     {
